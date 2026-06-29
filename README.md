@@ -1,5 +1,6 @@
 # AutoXpert
 AutoXpert Es una Empresa Ficticia. Los datos mostrados provienen de un script Python, para realizar un caso de estudio hipotético. 
+
 #Contenido 
 ---
 Este proyecto es una solución integral de Inteligencia de Negocios (BI) diseñada para el sector de retail automotriz. El objetivo principal que se abarco es proporcionar a la dirección una herramienta interactiva para auditar el capital inmovilizado, medir la rentabilidad del inventario y detectar fugas de liquidez operativa en tiempo real.
@@ -16,6 +17,6 @@ Aplicación de funciones iterativas (AVERAGEX), modificación de contexto (CALCU
 
 ---
 ## (Power BI)
-📸 ## (Vista Previa del Dashboard)
+📸 Vista Previa del Dashboard
 ---
 ![Dashboard AutoXpert](img/dashboard.png))
