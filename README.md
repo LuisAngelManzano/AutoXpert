@@ -19,3 +19,4 @@ Aplicación de funciones iterativas (AVERAGEX), modificación de contexto (CALCU
 📸 Vista Previa del Dashboard
 ---
 [Dashboard AutoXpert](img/dashboard.png)
+
