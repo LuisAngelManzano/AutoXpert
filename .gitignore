@@ -1,0 +1,39 @@
+# ==========================================
+# .gitignore para Proyecto de Data Analytics
+# ==========================================
+
+# ------------------------------------------
+# 1. Entornos de Python y Caché
+# ------------------------------------------
+# Ignoración de archivos generados por Python que no son necesarios para el control de versiones.
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Ignora entorno virtuales de Python, que suelen ser pesados y específicos de cada entorno.
+venv/
+env/
+.venv/
+.env
+
+# ------------------------------------------
+# 2. Archivos Temporales de Microsoft Office
+# ------------------------------------------
+~$*.xls*
+~$*.doc*
+~$*.ppt*
+
+# ------------------------------------------
+# 3. Archivos del Sistema Operativo
+# ------------------------------------------
+# Archivos ocultos que genera Windows y macOS automáticamente
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+ehthumbs_vista.db
+[Tt]humbs.db
+desktop.ini
