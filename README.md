@@ -17,4 +17,4 @@ Aplicación de funciones iterativas (AVERAGEX), modificación de contexto (CALCU
 ## Power BI
 📸 Vista Previa del Dashboard
 ---
-([Dashboard AutoXpert](img/dashboard.png)
+![Dashboard AutoXpert](img/dashboard.png)
