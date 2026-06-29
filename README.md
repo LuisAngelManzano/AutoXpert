@@ -13,5 +13,5 @@ Script desarrollado para la generación algorítmica del dataset. Simula comport
 *Formulas DAX
 Aplicación de funciones iterativas (AVERAGEX), modificación de contexto (CALCULATE, KEEPFILTERS) y variables (VAR) para la creación de reglas de negocio estrictas, entre otras formulas y calculos que se detallan en el documento.
 
-Vista Previa del Dashboard
+📸 Vista Previa del Dashboard
 ![Dashboard AutoXpert](img/dashboard.png))
