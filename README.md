@@ -15,7 +15,7 @@ Script desarrollado para la generación algorítmica del dataset. Simula comport
 Aplicación de funciones iterativas (AVERAGEX), modificación de contexto (CALCULATE, KEEPFILTERS) y variables (VAR) para la creación de reglas de negocio estrictas, entre otras formulas y calculos que se detallan en el documento.
 
 ---
-## (Power BI)
+## Power BI
 📸 Vista Previa del Dashboard
 ---
-![Dashboard AutoXpert](img/dashboard.png))
+[Dashboard AutoXpert](img/dashboard.png)
