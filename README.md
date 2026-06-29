@@ -8,6 +8,7 @@ El proyecto abarca el ciclo de vida completo de los datos: desde la generación 
 #Herramientas y Metodología Implementada: 
 *Python (/scripts/generador_datos.py):
 Script desarrollado para la generación algorítmica del dataset. Simula comportamientos reales de un piso de ventas, incluyendo fechas lógicas de ingreso/venta, asignación de precios con márgenes variables y generación de datos nulos intencionales para pruebas de calidad.
+
 [Haz clic aquí para ver el código completo que se genero en este caso de estudio(Python)](dataset_caso_estudio.py)
 
 *Microsoft Power BI: Herramienta de visualización, utilizando un diseño minimalista, eliminación de "ruido visual" (efecto arcoíris) y paletas de colores enfocadas en la legibilidad ejecutiva.
