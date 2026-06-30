@@ -24,3 +24,4 @@ Aplicación de funciones iterativas (AVERAGEX), modificación de contexto (CALCU
  **[Interactuar con el Dashboard (Power BI Service)](https://app.powerbi.com/view?r=eyJrIjoiODI2NzU0Y2EtZGUwNi00YWE2LThlYTctN2M4ZDE5Yzk0N2Q4IiwidCI6ImNhY2E5MDExLTdiNmEtNDRkZS04NjFmLTA5NWEyY2E4ODNiNyIsImMiOjR9)**  
 
   **[Descargar archivo del modelo para escritorio (.pbix)](Proyecto/ReporteAutosVisual.pbix)**
+  [Puedes Visualizar el documento de las medidas DAX utilizadas aqui: )](proyecto/Analisis_Medidas_DAX.pdf)
