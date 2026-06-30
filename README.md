@@ -25,4 +25,4 @@ Aplicación de funciones iterativas (AVERAGEX), modificación de contexto (CALCU
 
   **[Descargar archivo del modelo para escritorio (.pbix)](Proyecto/ReporteAutosVisual.pbix)**
   
-  **[Puedes Visualizar el documento de las medidas DAX utilizadas aqui: )](proyecto/Analisis_Medidas_DAX.pdf)**
+  **[Puedes Visualizar el documento de las medidas DAX utilizadas aqui: )](Proyecto/Analisis_Medidas_DAX.pdf)**
